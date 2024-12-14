@@ -9,3 +9,5 @@ in order to run successfully, add the following in the step file:
 const { Given, When, Then } = require('@cucumber/cucumber');
 
 note the 'require' and not 'import' -> WIP why this is so
+
+"type":"module" is not required in either cucumber.json or package.json -> WIP why this is so
