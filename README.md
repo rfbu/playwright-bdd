@@ -19,4 +19,6 @@ const { Given, When, Then } = require('@cucumber/cucumber');
 
 note the 'require' and not 'import' -> WIP why this is so
 
+![image](https://github.com/user-attachments/assets/94bae4bc-1984-45bd-9175-27e287b96672)
+
 "type":"module" is not required in either cucumber.json or package.json -> WIP why this is so
