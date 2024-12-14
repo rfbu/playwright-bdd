@@ -1,4 +1,4 @@
-//import {Given} from "@cucumber/cucumber"
+//import {Given} from "@cucumber/cucumber" 
 const { Given, When, Then } = require('@cucumber/cucumber');
 
 Given('user navigates to app', async function () {
