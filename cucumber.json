@@ -1,0 +1,15 @@
+{
+    "default":{
+		"type":"module",
+	"formatOptions":{
+		"snippetInterface":"async-await"
+	
+	},
+
+	"paths": ["tests/features/"
+	],
+	"dryRun":false,
+
+	"require":["tests/steps/*.ts"]
+	}
+}
